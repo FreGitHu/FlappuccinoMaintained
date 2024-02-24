@@ -10,6 +10,7 @@ from utils import checkCollisions
 
 
 def main():
+    print("Welcome to Flappuccino Revival!")
     pygame.init()
     # set the display
     DISPLAY=pygame.display.set_mode((640,480),0,32)
